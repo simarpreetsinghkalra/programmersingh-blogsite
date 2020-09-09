@@ -21,7 +21,7 @@ To run this project follow these steps:
 2. Clone this repository.
 3. Navigate to the root directory of the repository in terminal / command-prompt / powershell.
 4. Run command `npm i`.
-5. Run command `npm run`
+5. Run command `npm start`
 6. If you want to make changes in the design or views, all the views / stylesheets / icons are in _build_ directory.
-7. If you want to make changes in the JavaScript, all the **.ts** files are in _src_ directory. Make sure to run command `npm run tsc` after making changes to **.ts** files. Then run command `npm run`.
+7. If you want to make changes in the JavaScript, all the **.ts** files are in _src_ directory. Make sure to run command `npm run tsc` after making changes to **.ts** files. Then run command `npm start`.
 8. You always need to compile and restart the node server after changing **.ts** files.
